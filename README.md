@@ -1,0 +1,2 @@
+# BlinkitClone
+Blinkit clone- static
